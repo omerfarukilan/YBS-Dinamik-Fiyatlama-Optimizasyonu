@@ -1,0 +1,25 @@
+DEGISTIRILECEK DOSYALAR
+README.md <- README_Guncel.md içeriği
+Final_Projesi/proje.ipynb <- YBS_Dinamik_Fiyatlama_Sadece_Kod.ipynb
+
+EKLENECEK DOSYALAR
+Final_Projesi/usdtry_aylik.csv
+Final_Projesi/Omer_Faruk_Ilan_Yonetici_Ozeti.pdf
+Final_Projesi/eda_ozet.png
+Final_Projesi/model_tahmin.png
+Final_Projesi/shap_grafigi.png
+Final_Projesi/finansal_simulasyon.png
+Final_Projesi/model_metrikleri.xlsx
+Final_Projesi/optimizasyon_sonuclari.xlsx
+
+SILINECEK ESKI/ARA DOSYALAR
+Final_Projesi/.ipynb_checkpoints/
+Final_Projesi/Omer_Faruk_Ilan_Proje_Raporu.docx
+Final_Projesi/Yonetici_Ozeti_Raporu.docx
+Final_Projesi/birlestirilmis_veri.xlsx
+Final_Projesi/proje_verisi.xlsx
+
+KORUNACAK GIRDI DOSYALARI
+Final_Projesi/online_retail.csv
+Final_Projesi/evds_veri.xlsx
+
